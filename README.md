@@ -5,8 +5,6 @@ API REST desarrollada en **Java (Spring Boot)** que automatiza la toma de decisi
 ##  Tabla de Contenidos
 1. [Pre-requisitos](#-pre-requisitos)
 2. [Configuración Local (.env)](#-configuración-local-env)
-3. [Ejecución del Proyecto](#-ejecución-del-proyecto)
-4. [Cómo ejecutar Pruebas de Integración (Cypress)](#-cómo-ejecutar-pruebas-de-integración-cypress)
 5. [Evidencias de Ejecución](#-evidencias-de-ejecución)
 
 ---
@@ -31,3 +29,6 @@ Crea un archivo llamado `.env` en la raíz del proyecto y agrega tu llave:
 ```properties
 # Configuración de OpenRouter
 OPENROUTER_API_KEY=sk-or-v1-tu-clave-secreta-aqui
+
+## =Evidencias de Ejecución
+https://drive.google.com/file/d/18QUWdyXvpQiie1A15Bzp1nmdN2pdQTJx/view?usp=sharing
