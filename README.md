@@ -4,8 +4,8 @@ API REST desarrollada en **Java (Spring Boot)** que automatiza la toma de decisi
 
 ##  Tabla de Contenidos
 1. [Pre-requisitos](#-pre-requisitos)
-2. [Configuración Local (.env)](#-configuración-local-env)
-3. [Evidencias de Ejecución](#-evidencias-de-ejecución)
+2. [Evidencias de Ejecución](#-evidencias-de-ejecución)
+3. [Configuración Local (.env)](#-configuración-local-env)
 
 ---
 
@@ -19,6 +19,13 @@ Asegúrate de tener instalado en tu entorno:
 
 ---
 
+## Evidencias de Ejecución
+
+Link del video del video con ejecucion de toda la tarea
+https://drive.google.com/file/d/18QUWdyXvpQiie1A15Bzp1nmdN2pdQTJx/view?usp=sharing
+
+---
+
 ##  Configuración Local (.env)
 
 Por seguridad, las credenciales **NO** se suben al repositorio. Debes configurar tu API Key localmente.
@@ -27,7 +34,5 @@ Por seguridad, las credenciales **NO** se suben al repositorio. Debes configurar
 Crea un archivo llamado `.env` en la raíz del proyecto y agrega tu llave:
 
 ```properties
-
-### 3. Video Demostrativo
-[Ver Video de Ejecución](https://drive.google.com/file/d/18QUWdyXvpQiie1A15Bzp1nmdN2pdQTJx/view?usp=sharing)
-
+# Configuración de OpenRouter
+OPENROUTER_API_KEY=sk-or-v1-tu-clave-secreta-aqui
